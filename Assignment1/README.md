@@ -1,6 +1,12 @@
 # Assignment 1 — End-to-End Data Science Project
 
+Name:
+SJSU ID:
 > Generated on 2025-09-14 20:32
+Github Link: https://github.com/kalhar108/CMPE-255_Data_Mining/edit/main/Assignment1
+Medium Article Link: 
+
+> This Repository includes Python notebook to solve the assignment and chat tanscript (Doc and PDF both).
 
 This repository contains a complete beginner-to-intermediate data science workflow:
 
