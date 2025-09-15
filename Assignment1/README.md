@@ -3,8 +3,9 @@
 Name: Kalhar Mayurbhai Patel
 SJSU ID: 019140511
 > Generated on 2025-09-14 20:32
--Github Link: https://github.com/kalhar108/CMPE-255_Data_Mining/edit/main/Assignment1
--Medium Article Link: https://medium.com/@kalharpatel2002/sweet-sugar-and-data-science-1864a79a93ab
+- Github Link: https://github.com/kalhar108/CMPE-255_Data_Mining/edit/main/Assignment1  
+- Medium Article Link: https://medium.com/@kalharpatel2002/sweet-sugar-and-data-science-1864a79a93ab
+
 
 > This Repository includes Python notebook to solve the assignment and chat tanscript (Doc and PDF both).
 
