@@ -1,10 +1,10 @@
 # Assignment 1 — End-to-End Data Science Project
 
-Name:
-SJSU ID:
+Name: Kalhar Mayurbhai Patel
+SJSU ID: 019140511
 > Generated on 2025-09-14 20:32
 Github Link: https://github.com/kalhar108/CMPE-255_Data_Mining/edit/main/Assignment1
-Medium Article Link: 
+Medium Article Link: https://medium.com/@kalharpatel2002/sweet-sugar-and-data-science-1864a79a93ab
 
 > This Repository includes Python notebook to solve the assignment and chat tanscript (Doc and PDF both).
 
@@ -32,16 +32,7 @@ We use the **Diabetes** dataset bundled with scikit‑learn for full reproducibi
 
 ## Repository Contents
 - `Assignment1.ipynb` — the full, commented notebook
-- `plots/` — exported figures you can paste into reports or Medium
-    - `target_distribution.png`
-    - `hist_bmi.png`
-    - `hist_bp.png`
-    - `hist_s5.png`
-    - `hist_s1.png`
-    - `correlation_heatmap.png`
-    - `model_comparison_rmse.png`
-    - `rf_feature_importances.png`
-- `Medium_Article_Draft.md` — polished, beginner-friendly article
+- `Chat_Transcript.pdf` - Full chat summary with ChatGPT 5 Thinking Model.
 - `README.md` — this file
 
 ## EDA Highlights
